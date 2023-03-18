@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode/web development"
+		},
+		{
+			"path": "../.vscode/web development/jala login"
+		},
+		{
+			"path": "../.vscode/java programs"
+		},
+		{
+			"path": "../.vscode/python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web development"
+	}
+}
